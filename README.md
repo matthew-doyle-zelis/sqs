@@ -1,0 +1,3 @@
+using localstack, 
+
+use awslocal
